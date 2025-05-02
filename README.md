@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=940&lines=Full-Stack+Software+Engineer+%26+Architect+%F0%9F%92%BB;Building+Enterprise-Scale+Solutions+%E2%9A%A1;Innovation+%7C+Scalability+%7C+Performance+%F0%9F%8C%8C;Transforming+Ideas+into+Digital+Reality+%F0%9F%8C%A0" alt="Typing SVG" />
 
   <div>
-    <img src="https://komarev.com/ghpvc/?username=AbdullahAsif296&style=for-the-badge&color=00FFB3&labelColor=000000" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/AbdullahAsif296?style=for-the-badge&color=00FFB3&labelColor=000000" alt="Followers" />
-    <img src="https://img.shields.io/github/stars/AbdullahAsif296?style=for-the-badge&color=00FFB3&labelColor=000000" alt="Stars" />
+    <img src="https://komarev.com/ghpvc/?username=Hassan-Zulfiqar&style=for-the-badge&color=00FFB3&labelColor=000000" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/Hassan-Zulfiqar?style=for-the-badge&color=00FFB3&labelColor=000000" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/Hassan-Zulfiqar?style=for-the-badge&color=00FFB3&labelColor=000000" alt="Stars" />
   </div>
 </div>
 
@@ -27,18 +27,18 @@
 <div align="left">
   <img align="right" width="38%" src="https://raw.githubusercontent.com/AbdullahAsif296/AbdullahAsif296/main/assets/coding.gif" alt="Coding Animation"/>
 
-> _`Software Engineer specializing in scalable, efficient, and user-centric web applications`_
+> _`Computer Scientist specializing in scalable, efficient, and user-centric web applications`_
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="25" height="25" /> Education
 
-- **Bachelor of Software Engineering** @ FAST NUCES
+- **Bachelor of Computer Science** @ FAST NUCES
   - Focus: Database Systems, Data Structures, Web Engineering, Software Architecture
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="25" height="25" /> Professional Experience
 
-**Backend Development Intern** @ Infinity Bits _(July 2024 - Aug 2024)_
+**Backend Development Intern** @ Six Sense Technologies _(July 2024 - Aug 2024)_
 
-- Engineered high-performance web applications
+- Engineered high-performance web applications using django
 - Improved application scalability by 20%
 - Reduced testing cycles by 30% through automation
 </div>
